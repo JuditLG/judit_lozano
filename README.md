@@ -1,9 +1,9 @@
 # Portfolio
 
-Judit Lozano's portfilio site built with [Bootstrap](http://getbootstrap.com/).
+Judit Lozano's portfolio site built with [Bootstrap](http://getbootstrap.com/).
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://juditlozano.com/)
+[![Freelancer Preview](dist/assets/img/portfolio.png)](https://juditlozano.com/)
 
 **[View Live Preview](https://juditlozano.com/)**
